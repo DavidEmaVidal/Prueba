@@ -18,6 +18,7 @@ public class Prueba {
        int nro;
        String cadena;
        char wea;
+private String hola;
     }
     
 }
