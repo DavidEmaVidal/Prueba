@@ -20,6 +20,7 @@ public class Prueba {
        char wea;
 private String hola;
 private String otra;
+private String paravozalfred;
     }
     
 }
